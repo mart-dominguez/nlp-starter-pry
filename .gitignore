@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+.vscode/
+
+PyPDF2-1.26.0/
